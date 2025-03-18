@@ -1,0 +1,7 @@
+Django
+python-dotenv
+requests
+stripe
+celery
+redis
+gunicorn
